@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Display Hello World.",
+      "setup": "g++ -o a.out ./Homework/HW01/hw01-1-helloworld.cpp",
+      "run": "./a.out",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
